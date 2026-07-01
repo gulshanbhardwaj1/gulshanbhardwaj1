@@ -36,7 +36,7 @@
 
 | Project Name | Technology | Operational Link |
 | :--- | :--- | :--- |
-| **🕹️ NEO.FUN** | HTML5 / CSS-Grid / JS | [LAUNCH PORTAL 🟢](https://gulshanbhardwaj1.github.io/neo.fun/) |
+| **🕹️ NEO.FUN** | HTML5 / CSS-Grid / JS | [LAUNCH PORTAL 🟢](https://gulshanbhardwaj1.github.io/Neo.fun) |
 | **🧠 Clear-Cut-AI** | Core Logic / JavaScript | [VIEW REPO ⚡](https://github.com/gulshanbhardwaj1/Clear-cut-ai-) |
 | **🤖 Neobotai** | AI Sandbox & Interface | [VIEW REPO 🟡](https://github.com/gulshanbhardwaj1/Neobotai) |
 
